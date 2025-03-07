@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<SamarpreetSingh> - <4402616>: Text can be bold, italic, or strikethrough.
+<SamarpreetSingh> - <4402616>: Text can be bold, italic, or strikethrough
 
 [Link to another page](./another-page.html).
 
